@@ -29,7 +29,7 @@ http.get(process.argv[2], function (response)
 })
 
 
-/* OFFICIAL
+/* OFFICIAL, with help of third party
 
 var http = require('http')
 var bl = require('bl')
